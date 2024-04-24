@@ -1,0 +1,2 @@
+# item_modifier-set_components
+item_modifierの1項目であるset_componentsのサンプルになります。
