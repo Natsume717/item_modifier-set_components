@@ -1,8 +1,7 @@
 # item_modifier-set_components
 item_modifierの1項目であるset_componentsのサンプルになります。
 
-~詳しくはブログ記事『[]()』を参考にしてください。~<br>
-現在執筆中
+詳しくはブログ記事『[【マイクラ】set_componentsでコンポーネント付与【item_modifier】](https://natsumake.com/item_modifier-set_components/)』を参考にしてください。
 
 <h3>概要</h3>
 アイテムに対してコンポーネントを適用します。
